@@ -1,4 +1,4 @@
-### Hi, I'm Eduardo Palmieri <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+### Hi, I'm Diego Paricio <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 __________________________________________________________________________________________________________________________________________________________
 I am a **data science** and **big data analytics** **professional** based in Rio de Janeiro, with a degree in **administration**, a postgraduate background in **data science**, and current studies in **software engineering**. I am working towards establishing myself as a proficient programmer, bringing enthusiasm for technology and gaming to the programming world.
 __________________________________________________________________________________________________________________________________________________________
