@@ -37,5 +37,5 @@ ________________________________________________________________________________
 Feel free to contact me for collaboration on projects or potential freelance opportunities or interviews.
 
 - Contact : <br />
-    [![E-mail](https://img.shields.io/badge/E--mail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:eduardo_palmieri@outlook.com)
-    [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-palmieri001/)
+    [![E-mail](https://img.shields.io/badge/E--mail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:diegoparicio@gmail.com)
+    [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diegoparicio/)
