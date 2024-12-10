@@ -23,6 +23,7 @@ Technologies I've been learning and using so far :
 - OS & IDE & Tools : <br />
     [![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
     [![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)](https://jupyter.org/)
+    [![HTML](https://img.shields.io/badge/-HTML-F37626?style=flat-square&logo=html&logoColor=white)](https://jupyter.org/)
     [![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white)](https://www.anaconda.com/)
     [![Colab](https://img.shields.io/badge/-Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=white)](https://colab.research.google.com/)
     [![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
