@@ -33,7 +33,7 @@ Technologies I've been learning and using so far :
     [![Matplotlib](http://img.shields.io/badge/-Matplotlib-007ACC?style=flat-square&logo=matplotlib&logoColor=black)](https://matplotlib.org/)
     [![Plotly](http://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)](https://plotly.com/)
 
-  - Bases de Datos: <br />
+- Bases de Datos: <br />
     [![SQLite](http://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)](https://pandas.pydata.org/)
 
 ___________________________________________________________________________________________________________________________________________________________
