@@ -1,14 +1,13 @@
 ### Hi, I'm Diego Paricio <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 __________________________________________________________________________________________________________________________________________________________
-I am a **data science** and **big data analytics** **professional** based in Guadalajara, Spain, with a degree in **administration**, a postgraduate background in **data science**, and current studies in **software engineering**. I am working towards establishing myself as a proficient programmer, bringing enthusiasm for technology and gaming to the programming world.
+Junior data analyst based in Guadalajara, Spain, with a degree in Computer Engineering, currently focused on carrying out training projects in data analytics, machine learning and dashboards. My intention is to establish myself as a competent programmer, bringing enthusiasm for technology and the world of data.
+
 __________________________________________________________________________________________________________________________________________________________
-- 🏛️ Working as a real estate data analyst
-- 📜 Bachelor's in Business Administration
-- 📜 Post-graduate degree in Big Data Science
-- 📜 Software Engineering Student
+- 📜 Engineer’s Degree in Computer Engineering
+- 📜 C1 Advanced English Level
 - 🖊️ Open for a **freelance work** and **projects** to work on
 - 🖊️ Learning *Advanced Machine Learning* & *Data Science*
-- 🏄‍♂️ Surf as a hobbie
+- ♟️ Chess as a hobbie
 ___________________________________________________________________________________________________________________________________________________________
 Technologies I've been learning and using so far :
 
