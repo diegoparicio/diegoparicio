@@ -35,6 +35,7 @@ Technologies I've been learning and using so far :
 
 - Bases de Datos: <br />
     [![SQLite](http://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)](https://pandas.pydata.org/)
+    [![MySQL](http://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://pandas.pydata.org/)
 
 ___________________________________________________________________________________________________________________________________________________________
 Feel free to contact me for collaboration on projects or potential freelance opportunities or interviews.
