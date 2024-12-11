@@ -34,6 +34,7 @@ Technologies I've been learning and using so far :
 
 - Bases de Datos: <br />
     [![SQLite](http://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)](https://pandas.pydata.org/)
+    [![SQLAlchemy](http://img.shields.io/badge/-SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)](https://pandas.pydata.org/)
     [![MySQL](http://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://pandas.pydata.org/)
 
 - Data Apps: <br />
