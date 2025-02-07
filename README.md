@@ -37,12 +37,12 @@ Technologies I've been learning and using so far :
     [![Selenium](http://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)](https://www.selenium.dev/)
 
 - Bases de Datos: <br />
-    [![SQLite](http://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)](https://pandas.pydata.org/)
-    [![SQLAlchemy](http://img.shields.io/badge/-SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)](https://pandas.pydata.org/)
-    [![MySQL](http://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://pandas.pydata.org/)
+    [![SQLite](http://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
+    [![SQLAlchemy](http://img.shields.io/badge/-SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)](https://www.sqlalchemy.org/)
+    [![MySQL](http://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
 - Data Apps: <br />
-    [![Streamlit](http://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://pandas.pydata.org/)
+    [![Streamlit](http://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://streamlit.io/)
 
 ___________________________________________________________________________________________________________________________________________________________
 Feel free to contact me for collaboration on projects or potential freelance opportunities or interviews.
