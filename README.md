@@ -13,7 +13,7 @@ Technologies I've been learning and using so far :
 
 - Programming languages : <br />
     [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-    [![Python](https://img.shields.io/badge/-R%20(language)-276DC3?style=flat-square&logo=r&logoColor=white)](https://www.r-project.org/)
+    [![R](https://img.shields.io/badge/-R%20(language)-276DC3?style=flat-square&logo=r&logoColor=white)](https://www.r-project.org/)
   
 - Machine Learning / Deep Learning : <br />
     [![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org/)
