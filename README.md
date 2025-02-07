@@ -32,6 +32,7 @@ Technologies I've been learning and using so far :
     [![Pandas](http://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
     [![NumPy](http://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)](https://numpy.org/)
     [![Matplotlib](http://img.shields.io/badge/-Matplotlib-007ACC?style=flat-square&logo=matplotlib&logoColor=black)](https://matplotlib.org/)
+    [![Seaborn](http://img.shields.io/badge/-Seaborn-007ACC?style=flat-square&logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)
     [![Plotly](http://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)](https://plotly.com/)
     [![Selenium](http://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)](https://www.selenium.dev/)
 
