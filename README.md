@@ -43,8 +43,9 @@ Technologies I've been learning and using so far :
 
 - Data Apps: <br />
     [![Streamlit](http://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://streamlit.io/)
-  [![Tableau](http://img.shields.io/badge/-Tableau-3776AB?style=flat-square&logo=tableau&logoColor=white)](https://www.tableau.com/)
-  [![Power BI](http://img.shields.io/badge/-PowerBI-FFA500?style=flat-square&logo=powerbi&logoColor=white)](https://app.powerbi.com/)
+    [![Looker](http://img.shields.io/badge/-Looker-4285F4?style=flat-square&logo=looker&logoColor=white)](https://lookerstudio.google.com/)
+    [![Tableau](http://img.shields.io/badge/-Tableau-3776AB?style=flat-square&logo=tableau&logoColor=white)](https://www.tableau.com/)
+    [![Power BI](http://img.shields.io/badge/-PowerBI-FFA500?style=flat-square&logo=powerbi&logoColor=white)](https://app.powerbi.com/)
 
 ___________________________________________________________________________________________________________________________________________________________
 Feel free to contact me for collaboration on projects or potential freelance opportunities or interviews.
