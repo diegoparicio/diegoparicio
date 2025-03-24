@@ -25,7 +25,7 @@ Technologies I've been learning and using so far :
     [![SQLAlchemy](http://img.shields.io/badge/-SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)](https://www.sqlalchemy.org/)
     [![MySQL](http://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
-  - Libraries : <br />
+- Libraries : <br />
     [![Pandas](http://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
     [![NumPy](http://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)](https://numpy.org/)
     [![Matplotlib](http://img.shields.io/badge/-Matplotlib-007ACC?style=flat-square&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
