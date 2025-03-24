@@ -11,7 +11,7 @@ ________________________________________________________________________________
 ___________________________________________________________________________________________________________________________________________________________
 Technologies I've been learning and using so far :
 
-- Programming languages : <br />
+- Programming languages: <br />
     [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
     [![R](https://img.shields.io/badge/-R%20(language)-276DC3?style=flat-square&logo=r&logoColor=white)](https://www.r-project.org/)
 
@@ -20,7 +20,7 @@ Technologies I've been learning and using so far :
     [![Tableau](http://img.shields.io/badge/-Tableau-3776AB?style=flat-square&logo=tableau&logoColor=white)](https://www.tableau.com/)
     [![Looker](http://img.shields.io/badge/-Looker-4285F4?style=flat-square&logo=looker&logoColor=white)](https://lookerstudio.google.com/)
 
-- Bases de Datos: <br />
+- Databases: <br />
     [![SQLite](http://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
     [![SQLAlchemy](http://img.shields.io/badge/-SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)](https://www.sqlalchemy.org/)
     [![MySQL](http://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
