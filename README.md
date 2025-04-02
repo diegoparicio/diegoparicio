@@ -33,6 +33,7 @@ Technologies I've been learning and using so far :
     [![Seaborn](http://img.shields.io/badge/-Seaborn-276DC3?style=flat-square&logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)
     [![Selenium](http://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)](https://www.selenium.dev/)
     [![Django](http://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)](https://www.djangoproject.com/)
+    [![Tkinter](http://img.shields.io/badge/-Tkinter-1477D1?style=flat-square&logo=tkinter&logoColor=white)](https://docs.python.org/es/3.13/library/tkinter.html)
   
 - Machine Learning / Deep Learning : <br />
     [![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org/)
