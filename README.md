@@ -25,13 +25,14 @@ Technologies I've been learning and using so far :
     [![SQLAlchemy](http://img.shields.io/badge/-SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)](https://www.sqlalchemy.org/)
     [![MySQL](http://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
-- Libraries : <br />
+- Libraries & Frameworks: <br />
     [![Pandas](http://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
     [![NumPy](http://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)](https://numpy.org/)
     [![Matplotlib](http://img.shields.io/badge/-Matplotlib-007ACC?style=flat-square&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
     [![Plotly](http://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)](https://plotly.com/)
     [![Seaborn](http://img.shields.io/badge/-Seaborn-276DC3?style=flat-square&logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)
     [![Selenium](http://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)](https://www.selenium.dev/)
+    [![Django](http://img.shields.io/badge/-Django-092E20?style=flat-square&logo=selenium&logoColor=white)](https://www.djangoproject.com/)
   
 - Machine Learning / Deep Learning : <br />
     [![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org/)
