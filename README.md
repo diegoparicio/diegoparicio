@@ -1,6 +1,7 @@
 ### Hi, I'm Diego Paricio <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 __________________________________________________________________________________________________________________________________________________________
-Junior data analyst-scientist based in Guadalajara, Spain, with a degree in Computer Engineering, currently focused on carrying out training projects in data analytics, machine learning and dashboards. My intention is to establish myself as a competent programmer, bringing enthusiasm for technology and the world of data.
+Data Analyst | Junior Data Scientist | Python & Business Intelligence
+Computer Science Engineer with practical experience applying data analysis, prediction, and data visualization models to real-world projects. Developing solutions that integrate Python, BI, machine learning, and AI automation to solve business problems. Committed to continuous learning and analytical excellence.
 
 __________________________________________________________________________________________________________________________________________________________
 - 📜 Engineer’s Degree in Computer Engineering
