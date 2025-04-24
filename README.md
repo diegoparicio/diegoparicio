@@ -1,6 +1,7 @@
 ### Hi, I'm Diego Paricio <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 __________________________________________________________________________________________________________________________________________________________
 Data Analyst | Junior Data Scientist | Python & Business Intelligence
+
 Computer Science Engineer with practical experience applying data analysis, prediction, and data visualization models to real-world projects. Developing solutions that integrate Python, BI, machine learning, and AI automation to solve business problems. Committed to continuous learning and analytical excellence.
 
 __________________________________________________________________________________________________________________________________________________________
