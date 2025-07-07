@@ -27,7 +27,7 @@ Technologies I've been learning and using so far :
     [![SQLAlchemy](http://img.shields.io/badge/-SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)](https://www.sqlalchemy.org/)
     [![MySQL](http://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
     [![PostgreSQL](http://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-    [![SQLServer](http://img.shields.io/badge/-SQLServer-FD5750?style=flat-square&logo=sqlserver&logoColor=white)](https://www.microsoft.com/es-es/sql-server/)
+    [![SQLServer](http://img.shields.io/badge/-SQLServer-E7282D?style=flat-square&logo=sqlserver&logoColor=white)](https://www.microsoft.com/es-es/sql-server/)
 
 - Libraries & Frameworks: <br />
     [![Pandas](http://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
