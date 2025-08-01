@@ -47,7 +47,7 @@ Technologies I've been learning and using so far :
     [![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white)](https://keras.io/)
 
 - IDE & Tools : <br />
-    [![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+    [![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=.net&logoColor=white)](https://code.visualstudio.com/)
     [![Databricks](http://img.shields.io/badge/-Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)](https://community.cloud.databricks.com/)
     [![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)](https://jupyter.org/)
     [![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white)](https://www.anaconda.com/)
