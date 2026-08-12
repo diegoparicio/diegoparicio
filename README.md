@@ -4,7 +4,7 @@ Data Analyst | Data Scientist | Python & Business Intelligence
 
 Computer Science Engineer with practical experience applying data analysis, prediction, and data visualization models to real-world projects. Developing solutions that integrate Python, BI, machine learning, and AI automation to solve business problems. Committed to continuous learning and analytical excellence.
 
-Check here my [Portfolio](https://diegoparicio.github.io/)
+Check here my [portfolio](https://diegoparicio.github.io/)
 
 __________________________________________________________________________________________________________________________________________________________
 - 📜 Engineer’s Degree in Computer Engineering
