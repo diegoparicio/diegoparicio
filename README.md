@@ -2,7 +2,8 @@
 __________________________________________________________________________________________________________________________________________________________
 Data Scientist | Data Analyst | Python | Machine Learning | Generative AI
 
-Computer Science Engineer specializing in Data Science, Data Analytics, and Python-based solutions development. Experienced in developing projects involving Data Science, data analysis, machine learning, automation, ETL processes, and Generative AI projects, including LLM-based solutions and augmented recovery (RAG), using Python, SQL, Power BI, scikit-learn, Streamlit, and PySpark. Proven ability to develop end-to-end solutions, from data acquisition and transformation to application modeling, visualization, and deployment.
+Computer Science Engineer specializing in Data Science, Data Analytics, and Python-based solutions development. Experienced in developing projects involving Data Science, data analysis, machine learning, automation, ETL processes, and Generative AI projects, including LLM-based solutions and augmented recovery (RAG), using Python, SQL, Power BI, scikit-learn, Streamlit, and PySpark. 
+Proven ability to develop end-to-end solutions, from data acquisition and transformation to application modeling, visualization, and deployment.
 
 Check here my [portfolio](https://diegoparicio.github.io/)
 
